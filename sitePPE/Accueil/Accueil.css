@@ -1,0 +1,81 @@
+body{
+        background-image: url("407.jpg");
+		background-attachment: fixed;
+		background-size: cover;
+		background-position: center;
+}
+h1{
+	
+	text-align:center;
+	text-transform: uppercase;
+	font-weight:bold;
+	
+
+}
+h3{
+	margin-left:90%;
+	color:white;
+	font-size:150%
+	
+}
+mark{
+	
+	background-image:url("à.jpg");
+	border: 3px inset red;
+	
+	
+}
+
+a{
+	margin-right:60px;
+	color:white;
+	font-size:30px;
+	text-decoration: none;
+	
+   }
+   
+   p{
+	   text-align:center;
+	   
+   }
+
+ .res{
+	position: absolute; 
+    top: 25%; 
+    right: 25%;
+}
+
+h2{
+	font-size:230%;
+	margin-left:7%;
+	margin-top:7%;
+	font-style:italic;
+	text-decoration:overline;
+	color:white;
+	
+	
+	
+}
+.iso{
+	font-size:200%;
+	
+	color:white;
+	text-align:left;
+	color:white;
+	list-style-type:square;
+}
+.zz{
+	font-size:200%;
+	font-style:italic;
+	color:white;
+	text-align:left;
+	font-weight:bold;
+	list-style-type:square;
+}
+div{
+	border:4px outset red;
+	
+	background-image:url("fond_autoecole.jpg ")
+}
+
+

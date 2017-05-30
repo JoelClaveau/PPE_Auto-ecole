@@ -1,0 +1,57 @@
+body{
+        background-image: url("407.jpg");
+		
+		background-attachment: fixed;
+		background-size: cover;
+		background-position: center;
+}
+
+h1{
+	
+	text-align:center;
+	text-transform: uppercase;
+	font-weight:bold;
+
+}
+
+mark{
+	background-image:url("à.jpg");
+	border: 3px inset red;
+}
+
+
+ol{
+    margin-left:3%;
+	color:white;
+	font-size:160%;
+}
+h2{
+	text-align:center;
+	color:white;
+	font-size:170%;
+}
+
+.D{
+     margin-left: 39%;
+	font-size: 500%;
+	color: red;
+	}
+	
+a{
+	font-size:185%;
+	color:white;
+}
+
+.joel{
+	margin-left:50%;
+	color:white;
+	text-decoration: none;
+	font-size:120%;
+	
+}
+p{
+	font-size:190%;
+	color:red;
+	margin-left: 4%;
+}
+	

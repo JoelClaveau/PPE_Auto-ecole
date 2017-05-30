@@ -1,0 +1,63 @@
+body{
+        background-image: url("407.jpg");
+		background-attachment: fixed;
+		background-size: cover;
+		background-position: center;
+}
+table
+{
+    border-collapse: collapse;
+	color:white;
+	text-align:center;
+	font-size:120%;
+	margin-left:7%;
+}
+td, th /* Mettre une bordure sur les td ET les th */
+{
+    border: 4px inset red;
+	font-size:120%;
+}
+mark{
+	background-color:red;
+	background-image:url("à.jpg");
+	border: 3px inset red;
+	
+}
+.ee{
+	text-align:center;	
+	font-size:220%; 
+	text-transform: uppercase;
+	font-weight:bold;
+	
+	
+}
+h2{
+	
+	text-align:center;
+	color:white;
+	font-size:190%
+}
+.P{
+     margin-left: 45%;
+	font-size: 500%;
+	color: red;
+	}
+a{
+	text-decoration:none;
+	color:white;
+	font-size:180%;
+		
+		
+	}
+.joel{
+	margin-left:46%;
+	color:white;
+	font-size:190%;
+	
+}
+.P{
+     margin-left: 45%;
+	font-size: 500%;
+	
+	color: red;
+	}

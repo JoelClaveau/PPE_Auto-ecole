@@ -1,0 +1,81 @@
+body{
+        background-image: url("407.jpg");
+		background-attachment: fixed;
+		background-size: cover;
+		background-position: center;
+}
+
+
+h1{
+	
+	text-align:center;
+	text-transform: uppercase;
+	font-weight:bold;
+}
+
+
+mark{
+	
+	background-image:url("à.jpg");
+	border: 3px inset red;
+}
+
+
+table{
+	color:white;
+	font-size:30px;
+	border-collapse: collapse;
+	margin-left:10%;
+}
+
+
+
+td, th {
+    border: 3px solid white;
+}
+
+
+.T{
+    margin-left: 47%;
+	font-size: 500%;
+	color: red;
+}
+	
+
+a{
+	font-size:150%;
+	color:white;
+}
+	
+.joel{
+	margin-left:14%;
+	color:white;
+	text-decoration: none;
+	font-size:160%;
+	
+}
+.joe{
+	text-decoration: none;
+	margin-left:50%;
+    color:white;
+	font-size:160%;
+}	
+
+.red{
+	background-color:#C70039;
+}
+
+.f{
+	
+	 color:white;
+	 margin-top:30%;
+	 font-size:150%;
+	 margin-left:10%;
+	border: 2px solid red;
+}
+.w{
+	color:white;
+	font-size:110%;
+	
+	margin-left:2%;
+}
